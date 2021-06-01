@@ -1,1 +1,1 @@
-# groupe4
+Vous allez ajouter des photos qui vous seront donné et vous allez ajouter les animations sur les éléments présent sur la page NB: la partie gallerie n'a pas besoin d'être animé , ainsi que le bouton "travailler avec nous". D'ailleurs ce bouton donnera accès à un petit formulaire qui s'activera dès qu'on clique  dessus.
